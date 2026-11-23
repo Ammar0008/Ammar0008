@@ -1,70 +1,72 @@
-<h1 align="center">🥋 Ammar Attar — The Turtle Hermit of Cloud & Technical Sourcing 🐢⚡</h1>
+<h1 align="center">🔥🐢 AMMAR ATTAR — MAX POWER TURTLE HERMIT 🐢🔥</h1>
 <p align="center">
-  <b>MSc Computer Science | Technical Recruiter & Talent Sourcer | Cloud, Linux & DevOps Builder</b><br>
-  📍 Pune, Maharashtra, India • <i>"Work hard, study well, and eat and sleep plenty!"</i>
+  <b>MSc Computer Science • Technical Recruiter & Talent Sourcer • Cloud, Linux & DevOps Builder</b><br>
+  📍 Pune, Maharashtra, India
 </p>
 
 <p align="center">
   <a href="https://github.com/Ammar0008">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Technical+Sourcing+%26+Pre-Screening+with+Real+Code+Insight;Python+%7C+Docker+%7C+Podman+%7C+K3s+%7C+Terraform+%7C+AWS;Mastering+Fundamentals+Through+Daily+80%2F20+Drills" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=FF6B00&center=true&vCenter=true&width=720&lines=MAX+POWER+MODE%3A+BUILT+ON+FUNDAMENTALS%2C+NOT+HYPE;Move+Well+%E2%80%A2+Learn+Well+%E2%80%A2+Play+Well+%E2%80%A2+Eat+Well+%E2%80%A2+Rest+Well;Technical+Sourcing+with+Real+Linux%2C+Cloud+%26+Code+Insight;Python+%7C+Docker+%7C+Podman+%7C+K3s+%7C+Terraform+%7C+AWS" alt="Max Power Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🐉 The Turtle Hermit Philosophy
-> *"True strength isn't built overnight—it's forged through daily fundamentals, calm execution, and zero wasted motion."*
+### 💥 The Turtle Hermit Creed — Max Power Aura
+> ***"Move well, learn well, play well, eat well, and rest well — The Turtle Hermit Way."***  
+> ***"Eat well. Sleep well. Train hard. Enjoy life."***
 
-With an **MSc in Computer Science** and hands-on engineering drills across **Linux, Containers, Kubernetes (K3s), Terraform, and AWS**, I bridge the gap between **engineering teams and Technical Recruitment**. Instead of keyword-matching resumes blindly, I source, verify, and pre-screen developers using real GitHub X-Ray signals and architectural sanity checks.
+Calm on the outside. **Max Power** when it is time to execute.  
+Just like the Turtle Hermit dropping the shell and unleashing full-power mastery in the arena, I don't rely on shortcuts or buzzwords. Backed by an **MSc in Computer Science** and relentless daily 80/20 drills across **Linux, Containers, Kubernetes (K3s), Terraform, and AWS**, I bring real engineering power into **Technical Recruitment & Talent Sourcing**—spotting genuine builders through GitHub X-Ray forensics and architectural truth tests.
 
 ---
 
-### 🚀 Featured Proof of Work (Live Builds & Sourcing)
+### ⚡ Battle-Tested Proof of Work (Deployed & Verified)
 
-| Project / Deliverable | Core Stack & Methodology | Impact & Verification |
+| Arena / Deliverable | Weapons & Stack | Battle Result & Proof |
 |---|---|---|
 | **[Cloud Task App](https://github.com/Ammar0008/cloud-task-app)** | Python (Flask), SQLite, Docker, GitHub Actions CI/CD, Render | Full-stack containerized task app with automated CI/CD pipeline & Draw.io system architecture. |
-| **Technical Sourcing Pipeline (Pune / India)** | LinkedIn Boolean + GitHub X-Ray + Technical Screening | Sourced & pre-screened 10+ Python, DevOps & React engineers with custom BS-detector questions. |
-| **Gym Management System** | Python (Flask), HTML/CSS, Render | End-to-end backend web application deployed live on Render. |
-| **Java Notes & CI Pipeline** | Java, Jenkins, Git | Automated build pipeline practicing continuous integration workflows. |
+| **Technical Sourcing Pipeline (India / Pune)** | LinkedIn Boolean + GitHub X-Ray + Technical Pre-Screening | Sourced & verified 10+ Python, DevOps & React engineers with custom architectural BS-detector questions. |
+| **Gym Management System** | Python (Flask), HTML5/CSS3, Render | End-to-end backend management application deployed live on Render. |
+| **Java Notes & CI Pipeline** | Java, Jenkins, Git | Automated continuous integration pipeline built through hands-on terminal drills. |
 
 ---
 
-### 🛠️ Technical & Cloud Arsenal
+### 🐉 The Heavy Arsenal (Tech & Sourcing Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,django,flask,java,html,css,js,sqlite,git,github,githubactions,docker,podman,kubernetes,terraform,jenkins,aws,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,django,flask,java,html,css,js,sqlite,git,github,githubactions,docker,podman,kubernetes,terraform,jenkins,aws,vscode" alt="Max Power Tech Stack" />
 </p>
 
-- **☁️ Cloud & Infrastructure as Code:** AWS (EC2, S3, IAM, VPC, CloudFormation), Terraform, Render
+- **☁️ Cloud & Infrastructure as Code:** AWS (`EC2`, `S3`, `IAM`, `VPC`, `CloudFormation`), Terraform, Render
 - **🐳 Containers & Orchestration:** Docker, Podman, Kubernetes (`K3s` YAML & cluster drills)
-- **⚙️ CI/CD & Operating Systems:** Linux Administration, Bash Scripting, Git, GitHub Actions, Jenkins
+- **🐧 OS, Scripting & CI/CD:** Linux Administration, Bash Scripting, Git, GitHub Actions, Jenkins
 - **💻 Backend & Web:** Python (`Flask`, `Django`), SQL / SQLite, Beginner Java, HTML5, CSS3, JavaScript
-- **🎯 Technical Recruitment & Ops:** GitHub & LinkedIn X-Ray Sourcing, Technical Pre-Screening, CRM (`HubSpot`, `Zoho`, `Pipedrive`), Excel Data Filtering
+- **🎯 Technical Recruitment & Ops:** GitHub & LinkedIn X-Ray Sourcing, Technical Screening, CRM (`HubSpot`, `Zoho`, `Pipedrive`), Excel Data Filtering
 
 ---
 
-### 🏅 Certifications & Training Milestones
+### 🏅 Mastery Scrolls & Certifications
 - ☁️ **AWS Skill Builder:** Cloud Quest & Digital Training in **Terraform** and **AWS CloudFormation**
-- 🐧 **Linux Fundamentals Certification:** Command-line, permissions, networking & system administration
-- 🐍 **Python & Django Certification (Udemy):** Full-stack web development & database integration
+- 🐧 **Linux Fundamentals Certification:** CLI mastery, file permissions, networking & system operations
+- 🐍 **Python & Django Certification (Udemy):** Backend architecture, ORM & web deployment
 
 ---
 
-### 📊 Training Grounds & GitHub Telemetry
+### 📊 Power Level & GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar0008&show_icons=true&theme=tokyonight&hide_border=true" alt="Ammar's GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Ammar0008&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ammar0008&show_icons=true&theme=radical&hide_border=true" alt="Ammar's GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Ammar0008&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ammar0008&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ammar0008&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ Discipline beats motivation. Fundamentals beat hype. ⚡</b><br>
-  <i>Open to Technical Recruiter, Talent Sourcer, and Junior Cloud/Support opportunities in Pune & Remote.</i>
+  <b>🔥 "The Turtle Hermit Way is always with you. Train hard. Stay sharp. Execute." 🔥</b><br>
+  <i>Open to Technical Recruiter, Talent Sourcer, and Cloud/Technical Support roles in Pune & Remote.</i>
 </p>
