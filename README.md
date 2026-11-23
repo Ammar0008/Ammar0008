@@ -53,7 +53,14 @@ Just like the Turtle Hermit dropping the shell and unleashing full-power mastery
 
 ---
 
-### 📊 Power Level & GitHub Telemetry
+### 📊 Power Level & GitHub Telemetry — Goku & Vegeta Scouter Readout
+
+> 💢 **Vegeta (Scouter Readings):** *"Tch... what is this?! The numbers aren't dropping—oh no, he is improving! Every commit, every drill, his power level keeps climbing!"*  
+> 🔥 **Goku (Low-Class Grit):** *"Even a low-level warrior can surpass an elite with hard work and training!"*
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1100&color=EF4444&center=true&vCenter=true&width=700&lines=SCOUTER+ALERT%3A+IT%27S+OVER+9000...+%26+STILL+RISING%21;VEGETA%3A+%22OH+NO%2C+HE+IS+IMPROVING%21%22;GOKU%3A+%22A+LOW-LEVEL+WARRIOR+SURPASSES+ELITES+BY+TRAINING%21%22" alt="Goku and Vegeta Scouter Banner" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ammar0008&show_icons=true&theme=radical&hide_border=true" alt="Ammar's GitHub Stats" height="165" />
