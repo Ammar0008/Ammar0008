@@ -21,14 +21,14 @@ Just like the Turtle Hermit dropping the shell and unleashing full-power mastery
 
 ---
 
-### ⚡ Battle-Tested Proof of Work (Deployed & Verified)
+### ⚡ Battle-Tested Proof of Work (Click Any Scroll to Inspect)
 
-| Arena / Deliverable | Weapons & Stack | Battle Result & Proof |
+| Arena / Scroll | Weapons & Stack | Battle Result & Proof |
 |---|---|---|
-| **[Cloud Task App](https://github.com/Ammar0008/cloud-task-app)** | Python (Flask), SQLite, Docker, GitHub Actions CI/CD, Render | Full-stack containerized task app with automated CI/CD pipeline & Draw.io system architecture. |
-| **Technical Sourcing Pipeline (India / Pune)** | LinkedIn Boolean + GitHub X-Ray + Technical Pre-Screening | Sourced & verified 10+ Python, DevOps & React engineers with custom architectural BS-detector questions. |
-| **Gym Management System** | Python (Flask), HTML5/CSS3, Render | End-to-end backend management application deployed live on Render. |
-| **Java Notes & CI Pipeline** | Java, Jenkins, Git | Automated continuous integration pipeline built through hands-on terminal drills. |
+| 📜 **[Cloud Task App](https://github.com/Ammar0008/cloud-task-app)** | Python (Flask), SQLite, Docker, GitHub Actions CI/CD, Render | Full-stack containerized task app with automated CI/CD pipeline & Draw.io system architecture. |
+| 📜 **[Technical Sourcing Pipeline (India / Pune)](https://github.com/Ammar0008/technical-recruiting-proof-of-work)** | LinkedIn Boolean + GitHub X-Ray + Technical Pre-Screening | Sourced & verified 10+ Python, DevOps & React engineers with custom architectural BS-detector questions. |
+| 📜 **[Gym Management System](https://github.com/Ammar0008)** | Python (Flask), HTML5/CSS3, Render | End-to-end backend management application deployed live on Render. |
+| 📜 **[Java Notes & CI Pipeline](https://github.com/Ammar0008)** | Java, Jenkins, Git | Automated continuous integration pipeline built through hands-on terminal drills. |
 
 ---
 
@@ -47,9 +47,9 @@ Just like the Turtle Hermit dropping the shell and unleashing full-power mastery
 ---
 
 ### 🏅 Mastery Scrolls & Certifications
-- ☁️ **AWS Skill Builder:** Cloud Quest & Digital Training in **Terraform** and **AWS CloudFormation**
-- 🐧 **Linux Fundamentals Certification:** CLI mastery, file permissions, networking & system operations
-- 🐍 **Python & Django Certification (Udemy):** Backend architecture, ORM & web deployment
+- 📜 **[AWS Skill Builder — Cloud Quest, Terraform & AWS CloudFormation](https://github.com/Ammar0008)** *(Hands-on cloud infrastructure labs & IaC training)*
+- 📜 **[Linux Fundamentals Certification](https://github.com/Ammar0008)** *(CLI mastery, file permissions, networking & system operations)*
+- 📜 **[Python & Django Certification (Udemy)](https://github.com/Ammar0008)** *(Full-stack backend architecture, ORM & web deployment)*
 
 ---
 
